@@ -2,6 +2,7 @@
   "name": "redux-template",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/eadmundo/redux-template.git",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --content-base build/",
@@ -23,6 +24,8 @@
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-redux": "^4.4.1",
+    "react-router": "^2.0.1",
+    "react-router-redux": "^4.0.0",
     "redux": "^3.3.1",
     "redux-logger": "^2.6.1",
     "style-loader": "^0.13.1",
